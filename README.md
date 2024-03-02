@@ -32,10 +32,6 @@ This Arduino project implements a GSM-based knock sensor alarm system. The syste
 6. **Monitor Alerts:**
    - Upon detecting a knock, the system will send an SMS alert and initiate a phone call to the configured number.
 
-## Contributing
-
-Feel free to contribute to the project by opening issues, proposing enhancements, or submitting pull requests. Please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
